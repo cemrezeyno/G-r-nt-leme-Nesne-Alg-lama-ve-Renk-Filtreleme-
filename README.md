@@ -1,1 +1,1 @@
-# G-r-nt-leme-Nesne-Alg-lama-ve-Renk-Filtreleme-
+# Goruntu-Isleme-Nesne-Algilama-ve-Renk-Filtreleme-
